@@ -13,6 +13,11 @@
 [![codechef](https://img.shields.io/badge/codechef-CD7F32?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/aadi_18)
 [![leetcode](https://img.shields.io/badge/leetcode-FDE35B?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/beunique_18/)
 [![hackerrank](https://img.shields.io/badge/hackerrank-04BF11?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/baaditya917)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=aadityabhargav18)](https://github.com/aadityabhargav18/github-profile-trophy)
+
+
+
 <!---
 aadityabhargav18/aadityabhargav18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
