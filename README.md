@@ -6,6 +6,7 @@
 - 🥅 2023 Goals: Learn New Technologies and contribute more to Open Source Projects.
 - ⚡ Love to solve real-world problems.
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=aadityabhargav18)](https://github.com/aadityabhargav18/github-profile-trophy)
 
 ## Connect with me :
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aaditya-bhargav-34b424197/)
@@ -14,9 +15,7 @@
 [![leetcode](https://img.shields.io/badge/leetcode-FDE35B?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/beunique_18/)
 [![hackerrank](https://img.shields.io/badge/hackerrank-04BF11?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/baaditya917)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=aadityabhargav18)](https://github.com/aadityabhargav18/github-profile-trophy)
-
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aadityabhargav18&layout=compact)](https://github.com/aadityabhargav18/github-readme-stats)
 
 <!---
 aadityabhargav18/aadityabhargav18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
