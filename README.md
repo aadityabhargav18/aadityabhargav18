@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aaditya Bhargav! </h1>
 
-<h3 align="center">I'm a Student, Programmer, Developer and Learner! </h3>
+<h3 align="center">A M.Tech Student from IIIT Delhi </h3>
 
 - 💞️ I’m looking to collaborate with content creators
 - 🥅 2023 Goals: Learn New Technologies and contribute more to Open Source Projects.
