@@ -11,7 +11,6 @@
 ## Connect with me :
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aaditya-bhargav-34b424197/)
 [![portfolio](https://img.shields.io/badge/portfolio-FA441D?style=for-the-badge&logo=ko-fi&logoColor=white)](https://aadityabhargav18.github.io/portfolio1/)
-[![codechef](https://img.shields.io/badge/codechef-CD7F32?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/aadi_18)
 [![leetcode](https://img.shields.io/badge/leetcode-FDE35B?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/beunique_18/)
 [![hackerrank](https://img.shields.io/badge/hackerrank-04BF11?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/baaditya917)
 
