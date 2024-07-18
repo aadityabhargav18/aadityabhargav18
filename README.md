@@ -3,7 +3,7 @@
 <h3 align="center">A M.Tech Student from IIIT Delhi </h3>
 
 - 💞️ I’m looking to collaborate with content creators
-- 🥅 2023 Goals: Learn New Technologies and contribute more to Open Source Projects.
+- 🥅 2024 Goals: Learn New Technologies and contribute more to Open Source Projects.
 - ⚡ Love to solve real-world problems.
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=aadityabhargav18)](https://github.com/aadityabhargav18/github-profile-trophy)
