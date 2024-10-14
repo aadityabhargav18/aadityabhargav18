@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aaditya Bhargav! </h1>
 
-<h3 align="center">A M.Tech Student from IIIT Delhi </h3>
+<h3 align="center">A M.Tech CSE Student with Specialization in Artificial Intelligence from IIIT Delhi </h3>
 
 - 💞️ I’m looking to collaborate with content creators
 - 🥅 2024 Goals: Learn New Technologies and contribute more to Open Source Projects.
