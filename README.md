@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aaditya Bhargav! </h1>
+<h1 align="center">Hi 👋, I'm Aaditya Bhargav </h1>
 
 <h3 align="center">A M.Tech CSE Student with Specialization in Artificial Intelligence from IIIT Delhi </h3>
 
