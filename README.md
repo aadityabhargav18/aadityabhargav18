@@ -16,7 +16,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aadityabhargav18&layout=compact)](https://github.com/aadityabhargav18/github-readme-stats)
 
-## Check out my Holopin badges below! These badges represent the achievements and milestones I've earned in Hacktober Fest 2024.
+### Check out my Holopin badges ![image](https://github.com/user-attachments/assets/fa3132e5-6d97-4ba8-8d7f-d142f20f982f) below! These badges represent the achievements and milestones I've earned in Hacktober Fest 2024
 [![An image of @aadityabhargav18's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aadityabhargav18)](https://holopin.io/@aadityabhargav18)
 
 <!---
